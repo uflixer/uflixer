@@ -1,10 +1,10 @@
-# UFlixer
+# UsFlixer
 
 🌐 A modern movie and TV streaming website.
 
 ## 🔗 Live Site
 
-[https://uflixer.top](https://uflixer.top)
+[https://usflixer.com](https://usflixer.com)
 
 ## 📄 Features
 
@@ -18,11 +18,11 @@
 - HTML/CSS/JavaScript
 
 ## 📦 Sitemap
-- [index.xml](https://uflixer.top/sitemaps/sitemap.xml)
-- [movies.xml](https://uflixer.top/sitemaps/movies.xml)
-- [tvshows.xml](https://uflixer.top/sitemaps/tvshows.xml)
-- [genres.xml](https://uflixer.top/sitemaps/genres.xml)
-- [article.xml](https://uflixer.top/sitemaps/article.xml)
+- [index.xml](https://usflixer.com/sitemaps/sitemap.xml)
+- [movies.xml](https://usflixer.com/sitemaps/movies.xml)
+- [tvshows.xml](https://usflixer.com/sitemaps/tvshows.xml)
+- [genres.xml](https://usflixer.com/sitemaps/genres.xml)
+- [article.xml](https://usflixer.com/sitemaps/article.xml)
 
 ## 🧭 Google Search Console
 
