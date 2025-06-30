@@ -18,11 +18,11 @@
 - HTML/CSS/JavaScript
 
 ## 📦 Sitemap
-- [index.xml](https://usflixer.com/sitemaps/sitemap.xml)
-- [movies.xml](https://usflixer.com/sitemaps/movies.xml)
-- [tvshows.xml](https://usflixer.com/sitemaps/tvshows.xml)
-- [genres.xml](https://usflixer.com/sitemaps/genres.xml)
-- [article.xml](https://usflixer.com/sitemaps/article.xml)
+- [index.xml](https://usflixer.com/sitemaps/usflixer.com/sitemap.xml)
+- [movies.xml](https://usflixer.com/sitemaps/usflixer.com/movies.xml)
+- [tvshows.xml](https://usflixer.com/sitemaps/usflixer.com/tvshows.xml)
+- [genres.xml](https://usflixer.com/sitemaps/usflixer.com/genres.xml)
+- [article.xml](https://usflixer.com/sitemaps/usflixer.com/article.xml)
 
 ## 🧭 Google Search Console
 
